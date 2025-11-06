@@ -1,0 +1,5 @@
+{
+  "name": "NudgeMe",
+  "description": "A fully offline, local-only application to create, manage, and receive notifications for one-time and recurring reminders.",
+  "requestFramePermissions": []
+}
